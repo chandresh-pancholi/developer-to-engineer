@@ -15,4 +15,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) - How to write maintainable scripts
 
+### Floating point
+
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
+
+[Comparing Floating-Point Numbers Is Tricky](http://bitbashing.io/comparing-floats.html) - Some common floating point gotchas
