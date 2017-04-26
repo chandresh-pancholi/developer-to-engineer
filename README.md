@@ -13,8 +13,6 @@ Essential reading to take you from a developer, to an engineer.
 
 [A Programmer’s Introduction to Unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/) - An introduction to unicode
 
-[UTF-8: The Secret of Character Encoding](http://htmlpurifier.org/docs/enduser-utf8.html) - An introduction to UTF-8 encoding
-
 [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) - How to write maintainable scripts
 
 ### Floating point
