@@ -15,6 +15,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) - How to write maintainable scripts
 
+[Six Programming Paradigms That Will Change How You Think About Coding] (http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/) - 
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
