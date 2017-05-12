@@ -15,7 +15,7 @@ Essential reading to take you from a developer, to an engineer.
 
 [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) - How to write maintainable scripts
 
-[Six Programming Paradigms That Will Change How You Think About Coding] (http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/) - an overview of some obscure lanague paradigms
+[Six Programming Paradigms That Will Change How You Think About Coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/) - an overview of some obscure lanague paradigms
 
 [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - List of common actions and the time they take to complete
 
