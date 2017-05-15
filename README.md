@@ -31,4 +31,4 @@ Essential reading to take you from a developer, to an engineer.
 
 ## Academic Papers
 
-[A Study of Branch Prediction Strategies](9https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1981-A-Study-of-Branch-Prediction-Strategies.pdf)
+[A Study of Branch Prediction Strategies](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1981-A-Study-of-Branch-Prediction-Strategies.pdf)
