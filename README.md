@@ -19,9 +19,16 @@ Essential reading to take you from a developer, to an engineer.
 
 [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - List of common actions and the time they take to complete
 
+## Articles
+
+[Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
 
 [Comparing Floating-Point Numbers Is Tricky](http://bitbashing.io/comparing-floats.html) - Some common floating point gotchas
 
+## Academic Papers
+
+[A Study of Branch Prediction Strategies](9https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1981-A-Study-of-Branch-Prediction-Strategies.pdf)
