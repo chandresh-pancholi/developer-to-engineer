@@ -23,6 +23,7 @@ Essential reading to take you from a developer, to an engineer.
 
 [Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
 
+[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) Overview of HTTP headers to keep your site secured
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
