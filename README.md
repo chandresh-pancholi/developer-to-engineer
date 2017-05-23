@@ -19,6 +19,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - List of common actions and the time they take to complete
 
+[Learning the language of mathetmatics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)[PDF]
+
 ## Articles
 
 [Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
