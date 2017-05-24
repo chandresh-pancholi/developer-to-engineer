@@ -21,11 +21,14 @@ Essential reading to take you from a developer, to an engineer.
 
 [Learning the language of mathetmatics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)[PDF]
 
-## Articles
+## Blog posts
 
 [Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
 
-[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) Overview of HTTP headers to keep your site secured
+[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) - Overview of HTTP headers to keep your site secure
+
+[A brief history of “type”](http://arcanesentiment.blogspot.co.uk/2015/01/a-brief-history-of-type.html) - The history of the use of the word type in programming
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
