@@ -31,6 +31,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) - Overview of required knowledge for the CS field
 
+[The real difference between struct and class](http://www.fluentcpp.com/2017/06/13/the-real-difference-between-struct-class/) - When to use `struct` or `class` in C++
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
