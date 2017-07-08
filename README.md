@@ -33,6 +33,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [The real difference between struct and class](http://www.fluentcpp.com/2017/06/13/the-real-difference-between-struct-class/) - When to use `struct` or `class` in C++
 
+[Network protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
