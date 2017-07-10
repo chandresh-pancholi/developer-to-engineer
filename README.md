@@ -21,6 +21,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [Learning the language of mathetmatics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)[PDF]
 
+[Minimal PDF](https://brendanzagaeski.appspot.com/0004.html) - a stripped down example of a PDF file
+
 ## Blog posts
 
 [Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
