@@ -35,7 +35,7 @@ Essential reading to take you from a developer, to an engineer.
 
 [Network protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 
-[Where to type systems come from](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) - history of type theory and how it is used in type systems
+[Where to type systems come from?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) - history of type theory and how it is used in type systems
 
 ### Floating point
 
