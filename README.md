@@ -39,6 +39,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [Where to type systems come from?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) - history of type theory and how it is used in type systems
 
+[Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) - A more sensible design pattern to avoid overly complex microservice architecture
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
