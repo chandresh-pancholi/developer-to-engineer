@@ -29,15 +29,11 @@ Essential reading to take you from a developer, to an engineer.
 
 [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) - Summary of HTTP headers to keep your site secure
 
-[A brief history of “type”](http://arcanesentiment.blogspot.co.uk/2015/01/a-brief-history-of-type.html) - The history of the use of the word type in programming
-
 [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) - Overview of required knowledge for the CS field
 
 [The real difference between struct and class](http://www.fluentcpp.com/2017/06/13/the-real-difference-between-struct-class/) - When to use `struct` or `class` in C++
 
 [Network protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
-
-[Where to type systems come from?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) - history of type theory and how it is used in type systems
 
 [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) - A more sensible design pattern to avoid overly complex microservice architecture
 
@@ -46,6 +42,14 @@ Essential reading to take you from a developer, to an engineer.
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
 
 [Comparing Floating-Point Numbers Is Tricky](http://bitbashing.io/comparing-floats.html) - Some common floating point gotchas
+
+### Types
+
+[A brief history of “type”](http://arcanesentiment.blogspot.co.uk/2015/01/a-brief-history-of-type.html) - The history of the use of the word type in programming
+
+[Where to type systems come from?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) - history of type theory and how it is used in type systems
+
+[What are covariance and contravariance](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
 
 ## Academic Papers
 
